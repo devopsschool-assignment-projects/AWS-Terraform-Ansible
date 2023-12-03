@@ -1,4 +1,4 @@
-# DevOps Assignment
+# DevOps Assignment: AWS | Terraform | Ansible | Python
 Note: Try to implement as much functionalities as possible and provide
 proper description wherever applicable
 ## 1. Write a Terraform script to create below AWS components
